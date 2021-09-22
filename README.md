@@ -23,10 +23,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-React+Redux+Next      14 hrs 11 mins  39.34 % 
-Vue+Vuex+Nuxt         12 hr 33 mins   33.54 % 
-GraphQL               4hr 24 mins     11.51 % 
-Typescript            3hr 13 mins     8.68 % 
+Rust+Solana      15 hrs 11 mins  39.34 %
+Solidty+Truffle+HardHat+Web3.js      10 hrs 11 mins  39.34 % 
+React+Redux+Next      5 hrs 11 mins  39.34 % 
+Vue+Vuex+Nuxt         5 hr 33 mins   33.54 % 
+GraphQL               3hr 24 mins     11.51 % 
 ```
 <!--END_SECTION:waka-->
 
