@@ -9,7 +9,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/super1114/super1114/blob/main/github.png?raw=true" width="450" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](mailto:super1114dev@gmail.com) :)
+- 💼 Do reach, [email](mailto:albertomira1114@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
