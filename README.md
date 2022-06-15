@@ -6,9 +6,9 @@ I am also an open-source enthusiast and maintainer. <br/>
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 </h3>
 
-<h5>
+<h4 style="font-weight:bold;">
 ** Contact me, I would be happy to help **  
-</h5>
+</h4>
   
 <a href="mailto:albertomira1114@gmail.com"><img height="40" src="https://github.com/super1114/super1114/blob/main/email.svg"></a>
 <a href="https://discordapp.com/users/889578494944763905"><img height="40" src="https://github.com/super1114/super1114/blob/main/discord.svg"></a>
