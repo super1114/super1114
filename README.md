@@ -1,10 +1,10 @@
-<h2>
-Hi, I'm a passionate Full Stack Engineer with strong Blockchain knowledge. 
-My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
-I take great care in the experience, architecture, and code quality of the things I build.
-I am also an open-source enthusiast and maintainer. 
+<h3>
+Hi, I'm a passionate Full Stack Engineer with 8 years of experience and 4 years of blockchain experience. <br/>
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. <br/>
+I take great care in the experience, architecture, and code quality of the things I build.<br/>
+I am also an open-source enthusiast and maintainer. <br/>
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-</h2>
+</h3>
 
 **Languages and Tools:**  
 
