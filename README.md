@@ -10,11 +10,11 @@ I learned a lot from the open-source community and I love how collaboration and 
 ** Contact me, I would be happy to help **  
 </h4>
 
-<a href="mailto:albertomira1114@gmail.com"><img height="30" src="https://github.com/super1114/super1114/blob/main/email.svg"></a> &nbsp;&nbsp;
+<a href="mailto:super1114dev@gmail.com"><img height="30" src="https://github.com/super1114/super1114/blob/main/email.svg"></a> &nbsp;&nbsp;
 <a href="https://discordapp.com/users/889578494944763905"><img height="30" src="https://github.com/super1114/super1114/blob/main/discord.svg"></a>&nbsp;&nbsp;
 <a href="https://t.me/albertomira1114"><img height="30" src="https://github.com/super1114/super1114/blob/main/telegram.svg"></a>&nbsp;&nbsp;
 <a href="https://join.skype.com/invite/vKmiR32UIl8D"><img height="30" src="https://github.com/super1114/super1114/blob/main/skype.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/alberto-mira-96b8b0224"><img height="30" src="https://github.com/super1114/super1114/blob/main/linkedin.svg"></a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
